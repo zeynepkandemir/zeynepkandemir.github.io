@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Aperture Template
-url: "https://cosmic-hippopotamus.cloudvent.net"
+title: Zeynep Kandemir
+url: ""
 baseurl:
 google_analytics_key:
 
@@ -14,7 +14,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Aperture Template
+  name: Zeynep Kandemir
   links:
     - https://github.com/CloudCannon/aperture-jekyll-template
 
